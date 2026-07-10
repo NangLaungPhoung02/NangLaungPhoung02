@@ -1,22 +1,11 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=230&section=header&text=Nang%20Laung%20Phoung&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Technology%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=57&descSize=18"
-    alt="Profile banner"
-  />
-</p>
+<h1 align="center">Hi 👋, I'm Nang Laung Phoung</h1>
+
+<h3 align="center">
+Information Technology Student | Aspiring Full-Stack Developer
+</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=6B8E23&center=true&vCenter=true&width=850&lines=Information+Technology+Student;Aspiring+Full-Stack+Developer;Python+%7C+Flask+%7C+MySQL;Interested+in+Data+Engineering+and+UI%2FUX;Always+Learning+New+Things+%F0%9F%8C%B1"
-    alt="Typing introduction"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=NangLaungPhoung02&label=Profile%20Views&color=6B8E23&style=flat-square"
-    alt="Profile views"
-  />
+Python • Flask • MySQL • UI/UX • Data Engineering
 </p>
 
 ---
@@ -160,22 +149,22 @@ An Android fitness application developed using Kotlin and Jetpack Compose.
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=NangLaungPhoung02&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"
-    alt="GitHub statistics"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangLaungPhoung02&layout=compact&theme=vue-dark&hide_border=true"
-    alt="Most used languages"
+    src="https://github-readme-stats.vercel.app/api?username=NangLaungPhoung02&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=86400"
+    alt="Nang Laung Phoung's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NangLaungPhoung02&theme=vue-dark&hide_border=true"
-    alt="GitHub contribution streak"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangLaungPhoung02&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=86400"
+    alt="Nang Laung Phoung's Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=NangLaungPhoung02&theme=vue-dark&hide_border=true"
+    alt="Nang Laung Phoung's GitHub Streak"
   />
 </p>
 
@@ -222,9 +211,3 @@ Switzerland · China · Japan · Spain · France · Germany · Turkey · Austral
   <i>“Learning, building, and growing one project at a time.”</i>
 </p>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=120&section=footer"
-    alt="Footer"
-  />
-</p>
