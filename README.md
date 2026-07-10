@@ -145,26 +145,19 @@ An Android fitness application developed using Kotlin and Jetpack Compose.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NangLaungPhoung02&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=86400"
-    alt="Nang Laung Phoung's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangLaungPhoung02&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=86400"
-    alt="Nang Laung Phoung's Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangLaungPhoung02&layout=compact&theme=vue-dark&hide_border=true"
+    alt="Most used languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=NangLaungPhoung02&theme=vue-dark&hide_border=true"
-    alt="Nang Laung Phoung's GitHub Streak"
+    alt="GitHub contribution streak"
   />
 </p>
 
