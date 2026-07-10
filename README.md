@@ -1,165 +1,158 @@
-## Hi there 👋
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=230&section=header&text=Nang%20Laung%20Phoung&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Technology%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=57&descSize=18"
+    alt="Profile banner"
+  />
+</p>
 
-# 👋 I'm Nang Laung Phoung
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=6B8E23&center=true&vCenter=true&width=850&lines=Information+Technology+Student;Aspiring+Full-Stack+Developer;Python+%7C+Flask+%7C+MySQL;Interested+in+Data+Engineering+and+UI%2FUX;Always+Learning+New+Things+%F0%9F%8C%B1"
+    alt="Typing introduction"
+  />
+</p>
 
-🎓 Bachelor of Information Technology Student
-📍 James Cook University Singapore
-💻 Aspiring Full Stack Developer | Data Engineer | UI/UX Designer
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=NangLaungPhoung02&label=Profile%20Views&color=6B8E23&style=flat-square"
+    alt="Profile views"
+  />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I am currently studying Information Technology at James Cook University Singapore.
+Hi! I am **Nang Laung Phoung**, a Bachelor of Information Technology student at **James Cook University Singapore**.
 
-I enjoy building web applications using Python and Flask while continuously learning frontend development with HTML, CSS and JavaScript.
-I come form small town full of mountain which is in Shan State East of Myanmar. 
+I come from a small town surrounded by mountains in eastern Shan State, Myanmar. My background has taught me to stay curious, adaptable, and determined when learning new things.
 
-🌏 Languages:
-- English
+I enjoy building web applications with **Python and Flask**, designing user-friendly interfaces, and working with databases. I am currently developing my skills in full-stack development, data engineering, cloud computing, and UI/UX design.
+
+- 🎓 Studying Information Technology at James Cook University Singapore
+- 💻 Interested in full-stack development and data engineering
+- 🐍 Building web applications with Python and Flask
+- 🗄 Learning database design with MySQL and SQLite
+- ☁️ Exploring AWS, Docker, React, and REST APIs
+- 🎨 Interested in clean and user-friendly interface design
+- 🌱 Always learning through practical projects
+
+---
+
+## 🌏 Languages
+
 - Burmese
+- English
 - Chinese
 - Thai
-
-## 🌸 Fun Facts
-
-🍵 Matcha enthusiast — I can never say no to a good cup of matcha.
-
-👩‍🍳 I enjoy cooking and trying new recipes whenever I have free time.
-
-✈️ Dream destination: Switzerland, China, Japan, Spain, French, Germany, Tureky, Australia, Italy.
-
-💻 I enjoy turning creative ideas into real web applications.
-
-🎨 I like designing clean and user-friendly interfaces before writing code.
-
-📚 I'm always learning something new, whether it's Flask, React, Docker, or AWS.
-
-🎵 I often listen to lo-fi music while coding—it helps me stay focused.
-
-📷 I enjoy taking aesthetic photos of food, cafés, and nature.
-
-🌱 I believe every project is an opportunity to learn something new.
-
-☕ Debugging is easier with a cup of matcha nearby.
-
-
-Currently I am focusing on
-
-- 🌐 Full Stack Web Development
-- 🐍 Python Programming
-- 🗄 Database Design (MySQL)
-- ☁ Cloud Computing
-- 📱 UI/UX Design
-- 📊 Data Engineering
-
-I enjoy solving real-world problems through software development and continuously improving my technical skills.
 
 ---
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
-## 🚀 Technologies & Tools
-
 ### Programming Languages
 
-- Python
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Programming languages" />
+</p>
 
-### Frameworks
+### Frameworks and Development
 
-- Flask
-- Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap,react" alt="Frameworks" />
+</p>
 
-### Database
+### Databases
 
-- MySQL
-- SQLite
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
+</p>
 
-### Tools
+### Tools and Platforms
 
-- Git
-- GitHub
-- VS Code
-- Figma
-- MySQL Workbench
-- Jira
-- Trello
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws" alt="Tools and platforms" />
+</p>
 
-### Currently Learning
+### Other Tools
+
+`MySQL Workbench` · `Jira` · `Trello` · `GitHub Projects` · `WordPress` · `Joomla`
+
+---
+
+## 🌱 Currently Learning
 
 - React
 - Docker
 - AWS Cloud
-- REST API Development
+- REST API development
+- Full-stack application architecture
+- Data engineering fundamentals
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🪑Smart seat booking system 
-Web application help students and lectures  find their favourite seat on campus. 
+### 🪑 Smart Seat Booking System
 
-**Tech Stack**
-Python • Flask • HTML • CSS • JavaScript • SQLite
+A web application designed to help students and lecturers find and reserve their preferred seats on campus.
+
+**Main features**
+
+- Seat availability display
+- Seat booking and reservation
+- User-friendly campus seating interface
+- Database-supported booking records
+
+**Tech stack:** Python · Flask · HTML · CSS · JavaScript · SQLite
 
 ---
 
-### 💼 Job & Internship Finder
+### 💼 Job and Internship Finder
 
-A full-stack Flask website that allows students to discover internship and job opportunities.
+A full-stack web application that helps students and job seekers discover suitable employment and internship opportunities.
 
-**Tech Stack**
+**Main features**
 
-Python • Flask • HTML • CSS • JavaScript • SQLite
+- Browse jobs and internships
+- Search and filter opportunities
+- View detailed job information
+- User profile and authentication features
+
+**Tech stack:** Python · Flask · HTML · CSS · JavaScript · SQLite
 
 ---
 
 ### 🚨 Singapore Emergency Guide
 
-Web application that helps international students understand Singapore laws and emergency procedures.
+A web application that helps international students understand Singapore laws, emergency procedures, evidence requirements, and relevant authorities.
 
+**Main features**
 
-**Tech Stack**
+- Case-category guidance
+- Evidence checklists
+- Step-by-step emergency instructions
+- Authority and emergency contact information
 
-Python • Flask • MySQL
+**Tech stack:** Python · Flask · MySQL · HTML · CSS · JavaScript
 
 ---
 
 ### 🏃 Running Tracker App
 
-Android application developed using Jetpack Compose.
+An Android fitness application developed using Kotlin and Jetpack Compose.
 
-Features:
+**Main features**
 
-- GPS Tracking
-- Weather
-- Goal Setting
-- Run History
+- GPS location tracking
+- Running stopwatch
+- Distance, speed, and pace tracking
+- Weather information
+- Running records
+- Goal setting
+- Dark and light modes
+
+**Tech stack:** Kotlin · Jetpack Compose · Android Studio
 
 ---
 
@@ -167,30 +160,71 @@ Features:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NangLaungPhoung02&show_icons=true&theme=tokyonight"
-    alt="Nang Laung Phoung's GitHub statistics"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=NangLaungPhoung02&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"
+    alt="GitHub statistics"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangLaungPhoung02&layout=compact&theme=vue-dark&hide_border=true"
+    alt="Most used languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangLaungPhoung02&layout=compact&theme=tokyonight"
-    alt="Most used programming languages"
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NangLaungPhoung02&theme=vue-dark&hide_border=true"
+    alt="GitHub contribution streak"
   />
 </p>
---
 
+---
 
-## 📫 Contact Me
+## 🌸 Fun Facts About Me
 
-📧 laungphoung.nang@my.jcu.edu.au
+- 🍵 I am a matcha enthusiast, and matcha is my favourite coding companion.
+- 👩‍🍳 I enjoy cooking and experimenting with new recipes.
+- 🎧 I often listen to lo-fi music while studying or coding.
+- 📷 I enjoy taking aesthetic photos of food, cafés, and nature.
+- 🎨 I like combining technology with clean and creative design.
+- 💻 I enjoy turning ideas into practical web applications.
+- 🌱 I believe every project is an opportunity to learn and improve.
+- 🐛 Debugging always feels easier with a cup of matcha nearby.
 
-LinkedIn:
-[(https://www.linkedin.com/in/laung-phoung-nang-570241415/)]
+---
 
-GitHub:
-https://github.com/NangLaungPhoung02
-# Nang-Laung-Phoung
+## ✈️ Dream Destinations
 
-![](https://komarev.com/ghpvc/?username=NangLaungPhoung02&color=blue)
+Switzerland · China · Japan · Spain · France · Germany · Turkey · Australia · Italy
 
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:laungphoung.nang@my.jcu.edu.au">
+    <img src="https://img.shields.io/badge/Email-6B8E23?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/laung-phoung-nang-570241415/">
+    <img src="https://img.shields.io/badge/LinkedIn-507D2A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/NangLaungPhoung02">
+    <img src="https://img.shields.io/badge/GitHub-3A4D25?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Learning, building, and growing one project at a time.”</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=120&section=footer"
+    alt="Footer"
+  />
+</p>
