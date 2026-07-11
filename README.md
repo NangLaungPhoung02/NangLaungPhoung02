@@ -136,10 +136,7 @@ An Android fitness application developed using Kotlin and Jetpack Compose.
 - GPS location tracking
 - Running stopwatch
 - Distance, speed, and pace tracking
-- Weather information
-- Running records
-- Goal setting
-- Dark and light modes
+- Weather information and running records
 
 **Tech stack:** Kotlin · Jetpack Compose · Android Studio
 
