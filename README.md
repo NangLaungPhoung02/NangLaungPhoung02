@@ -170,11 +170,6 @@ An Android fitness application developed using Kotlin and Jetpack Compose.
 
 ---
 
-## ✈️ Dream Destinations
-
-Switzerland · China · Japan · Spain · France · Germany · Turkey · Australia · Italy
-
----
 
 ## 📫 Connect With Me
 
