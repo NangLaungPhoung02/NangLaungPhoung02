@@ -97,21 +97,6 @@ A web application designed to help students and lecturers find and reserve their
 
 ---
 
-### 💼 Job and Internship Finder
-
-A full-stack web application that helps students and job seekers discover suitable employment and internship opportunities.
-
-**Main features**
-
-- Browse jobs and internships
-- Search and filter opportunities
-- View detailed job information
-- User profile and authentication features
-
-**Tech stack:** Python · Flask · HTML · CSS · JavaScript · SQLite
-
----
-
 ### 🚨 Singapore Emergency Guide
 
 A web application that helps international students understand Singapore laws, emergency procedures, evidence requirements, and relevant authorities.
