@@ -127,18 +127,6 @@ An Android fitness application developed using Kotlin and Jetpack Compose.
 
 ---
 
-## 📊 GitHub Activity
-
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=NangLaungPhoung02&theme=vue-dark&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
----
-
 ## 🌸 Fun Facts About Me
 
 - 🍵 I am a matcha enthusiast, and matcha is my favourite coding companion.
